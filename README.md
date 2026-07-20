@@ -6,8 +6,8 @@ A comprehensive deep learning pipeline for multi-object tracking of fish in the 
 
 This project consists of two main Jupyter notebooks:
 
-1. **fish_image_pipeline_with_tracking_50epochs(95.59).ipynb** - Training pipeline for the segmentation encoder and detector
-2. **fish_pipeline_gmot40_table5_comparison(run).ipynb** - Full evaluation pipeline with GMOT40 benchmark comparison
+1. **Segmentation_part.ipynb** - Training pipeline for the segmentation encoder and detector
+2. **Tracking_part.ipynb** - Full evaluation pipeline with GMOT40 benchmark comparison
 
 ## Key Features
 
